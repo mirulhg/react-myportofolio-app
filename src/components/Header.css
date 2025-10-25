@@ -1,0 +1,19 @@
+.header-container {
+    background: #1B3C53;
+    background: linear-gradient(139deg, rgba(27, 60, 83, 1) 0%, rgba(35, 76, 106, 1) 50%, rgba(69, 104, 130, 1) 100%);
+    padding: 30px;
+
+    border-radius: 30px;
+    box-shadow:  20px 20px 40px #978b83,
+             -20px -20px 40px #fff7e9;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    border-radius: 20% 20%;
+    max-width: 15%;
+    height: auto;
+}
