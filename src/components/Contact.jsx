@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div>
+    <div className="card-about">
       <h2>Contact</h2>
       <div class="social">
         <h2>Media Sosial</h2>

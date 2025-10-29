@@ -1,5 +1,8 @@
 .card-about {
-    max-width: 30%;
+    margin: 10px;
+    width: 70%;
+    height: auto;
+    min-height: 40vh;
     padding: 30px;
     border-radius: 18px;
     background: #456882;
